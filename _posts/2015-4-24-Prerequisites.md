@@ -85,36 +85,37 @@ With this you have finished setting up the software environment for the workshop
 
 ### Getting used to Ubuntu
 
-Ubuntu is a free Operating System that is based on the Linux kernel. In the workshop, we will be using the Command Line Interface (CLI) called **Terminal**.
+Ubuntu is a free Operating System that is based on the Linux kernel. In the workshop, we will be using the Command Line Interface (CLI) called **Terminal**.　　（UbuntuはLinuxを基にした無料のOSです．ワークショップでは"端末(Terminal)"と呼ばれるコマンドラインインターフェイス(CLI)を使います．）
 
-Please read these tutorial pages to get used to Terminal:
+Please read these tutorial pages to get used to Terminal:　　（端末に慣れるためには下のチュートリアルを読んでおいて下さい．）
 
 * **日本語**: [Official](https://wiki.ubuntulinux.jp/UbuntuTips/Others/HowToUseTerminal).
 
-Please comment at the bottom of this page, if you know a better tutorial to learn about Terminal.
+Please comment at the bottom of this page, if you know a better tutorial to learn about Terminal.　　（もっといいチュートリアルがあればこのページの最後にコメントしてください．）
 
 * **English**: [Official](https://help.ubuntu.com/community/UsingTheTerminal). 
 
 ### Getting used to Git/Github
 
-One of the workshops will be on Version Control Software called [Git](http://git-scm.com/) and on the Git online interface called [Github](http://github.com).
+One of the workshops will be on Version Control Software called [Git](http://git-scm.com/) and on the Git online interface called [Github](http://github.com).　　（ワークショップではGitというヴァージョン管理ソフトを使います．そのGitのオンラインインターフェイスをGithubと言います．）
 
-For accessing the materials of the workshop, you need to create an account on the Github website:
+For accessing the materials of the workshop, you need to create an account on the Github website:　　（ワークショップの資料を手に入れるためにはGithubのウェブサイトからアカウントを作る必要があります．）
 
-* Please create a Github account from this [link](https://github.com/). 
-* Follow the user **shibatalab** from this [link](https://github.com/shibatalab) as shown in the figure below:
+* Please create a Github account from this [link](https://github.com/). 　　（ここからGithubのアカウントを作ってください．）
+* Follow the user **shibatalab** from this [link](https://github.com/shibatalab) as shown in the figure below:　　（下の図に従ってここから"shibatalab"というユーザをフォローして下さい．）
 
 ![Github](../images/github.png)  
 
-* Practice editing the contents of this [site](http://shibatalab.github.io) from the Github website as shown below:
-  - Open a browser and go to Github website and login with your account.
+* Practice editing the contents of this [site](http://shibatalab.github.io) from the Github website as shown below:　　（下記に従ってGithubのこの項目を編集する練習をして下さい．）
+  - Open a browser and go to Github website and login with your account.　　（ブラウザを開き，自分のアカウントでGithubにログイン・アクセスして下さい．）
 
-  - Go to the repository of this [site](https://github.com/shibatalab/GW2015Workshop) and check the contents of the repository.
+  - Go to the repository of this [site](https://github.com/shibatalab/GW2015Workshop) and check the contents of the repository.　　（ここからrepositoryに飛んでrepositoryの項目をチェックして下さい．）
 
-  - Edit the contents of this page available at this [link](https://github.com/shibatalab/GW2015Workshop/blob/gh-pages/_posts/2015-4-24-Prerequisites.md) and read the raw content of this page.
+  - Edit the contents of this page available at this [link](https://github.com/shibatalab/GW2015Workshop/blob/gh-pages/_posts/2015-4-24-Prerequisites.md) and read the raw content of this page.　　（このページの編集可能な項目を編集して下さい．また，rawという項目も読んでおいて下さい．）
 
 
 ## Comment below
 ---
 
-If you have completed all the steps required for attending the workshops, then please comment below with your name. Also please comment if you have any problems with the steps.    
+If you have completed all the steps required for attending the workshops, then please comment below with your name. Also please comment if you have any problems with the steps.    （ワークショップに必要なステップが全て終わったら，この下に自分の名前をコメントして下さい．また，このステップに何か間違いがあった場合もコメントして下さい．）
+
